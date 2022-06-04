@@ -1,7 +1,7 @@
 # Android 通知图标规范适配计划
 
 ![Eclipse Marketplace](https://img.shields.io/badge/license-AGPL3.0-blue)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=交流讨论&color=0088cc)](https://t.me/XiaofangInternet)
+[![Telegram](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/XiaofangInternet)
 
 这是一个在线规则平台，为国内 Android 不规范的 APP 和厂商适配原生通知图标与规范图标修复。
 
@@ -19,7 +19,7 @@
 
 - Flyme <b>或许可能，敬请期待。有需求可提交</b> `issues`
 
-- 类原生、Pixel 的国内用户 <strong>暂无计划，敬请期待</strong>
+- 类原生、Pixel 的国内用户 [可在这里留言请求适配](https://github.com/fankes/AndroidNotifyIconAdapt/issues/102)
 
 ## 需求适配
 
